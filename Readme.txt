@@ -1,0 +1,1 @@
+Multiple groups of mobile robots moving togheter, they try to stay connected and avoid collision simultaneously 
